@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Advanced Mortar (Continued)</name>
+  	<packageId>Mlie.AdvancedMortar</packageId>
+	<author>Mlie</author>
+	<url>https://github.com/emipa606/AdvancedMortar</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies />
+	<loadAfter />
+	<description>Update of $$$s mod for RimWorld 1.1
+https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
+
+Support-chat:
+https://discord.gg/SuhwVpM
+
+Non-steam version:
+https://github.com/emipa606/AdvancedMortar
+	
+--- Original Description ---
+Adds upgraded version of the mortar. Details are attatched as images.
+
+For players only. Enemies won't bring this to attack you.
+
+Burst fire is not free.
+It consumes a shell per each shot.
+It's working just like a following video.
+
+https://youtu.be/io3NHBKQSQ4</description>
+</ModMetaData>

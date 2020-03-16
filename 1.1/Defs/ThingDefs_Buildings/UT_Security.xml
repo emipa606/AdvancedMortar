@@ -26,6 +26,10 @@
 	</costList>
 	<uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
 	<uiIconScale>0.9</uiIconScale>
+	
+    <researchPrerequisites>
+      <li>Ad_Mortars</li>
+    </researchPrerequisites>
   </ThingDef>
   
 

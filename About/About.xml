@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Advanced Mortar (Continued)</name>
-  	<packageId>Mlie.AdvancedMortar</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/AdvancedMortar</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of $$$s mod for RimWorld 1.1
+  <name>Advanced Mortar (Continued)</name>
+  <packageId>Mlie.AdvancedMortar</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/AdvancedMortar</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of $$$s mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
 
 Support-chat:
 https://discord.gg/SuhwVpM

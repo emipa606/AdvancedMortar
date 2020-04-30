@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-<!--=============== Advanced Mortar Turret ===============-->
-  
-<!-- ================ Mortars ==================-->
-
+  <!--=============== Advanced Mortar Turret ===============-->
+  <!-- ================ Mortars ==================-->
   <ThingDef Name="Ad_BaseArtilleryBuilding" ParentName="BuildingBase" Abstract="True">
     <thingClass>Building_TurretGun</thingClass>
     <graphicData>
@@ -15,7 +13,7 @@
         <cornerTL>Damage/Corner</cornerTL>
       </damageData>
       <shadowData>
-	      <offset>(-0.13,-0.87,-0.1)</offset>
+        <offset>(-0.13,-0.87,-0.1)</offset>
         <volume>(0.5,0.4,1.05)</volume>
       </shadowData>
     </graphicData>
@@ -37,17 +35,17 @@
     <tickerType>Normal</tickerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
-		<costStuffCount>60</costStuffCount>
+    <costStuffCount>60</costStuffCount>
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
     <costList>
-			<Steel>120</Steel>
-			<ComponentIndustrial>5</ComponentIndustrial>
-		</costList>
+      <Steel>120</Steel>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
     <inspectorTabs>
       <li>ITab_Shells</li>
     </inspectorTabs>
     <comps>
-      <li Class="CompProperties_Forbiddable"/>
+      <li Class="CompProperties_Forbiddable" />
       <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
@@ -61,11 +59,11 @@
     </statBases>
     <building>
       <turretBurstWarmupTime>4.0</turretBurstWarmupTime>
-			<turretBurstCooldownTime>28.0</turretBurstCooldownTime>
-			<buildingTags>
-				<li>Artillery</li>
-			</buildingTags>
-		</building>
+      <turretBurstCooldownTime>28.0</turretBurstCooldownTime>
+      <buildingTags>
+        <li>Artillery</li>
+      </buildingTags>
+    </building>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
       <li>PlaceWorker_TurretTop</li>
@@ -75,11 +73,7 @@
     </researchPrerequisites>
     <uiIconScale>1.1</uiIconScale>
   </ThingDef>
-
-
-
-
-<ThingDef Name="Ad_BaseArtilleryWeapon" Abstract="True">
+  <ThingDef Name="Ad_BaseArtilleryWeapon" Abstract="True">
     <category>Item</category>
     <thingClass>ThingWithComps</thingClass>
     <label>artillery error</label>
@@ -120,11 +114,7 @@
       </defaultStorageSettings>
     </building>
   </ThingDef>
-
-
-
   <!--=============== Advanced Mortar turret ===============-->
-
   <ThingDef ParentName="Ad_BaseArtilleryBuilding">
     <defName>Ad_Turret_Mortar</defName>
     <label>advanced mortar</label>
@@ -144,11 +134,9 @@
         <li>Artillery_BaseDestroyer</li>
       </buildingTags>
     </building>
-	<uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
-	<uiIconScale>0.9</uiIconScale>
+    <uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
   </ThingDef>
-  
-
   <ThingDef ParentName="Ad_BaseArtilleryWeapon">
     <defName>Ad_Artillery_Mortar</defName>
     <label>advanced mortar</label>
@@ -175,7 +163,4 @@
       </li>
     </verbs>
   </ThingDef>
-
-
-
 </Defs>

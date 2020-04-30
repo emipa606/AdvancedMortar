@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-<!--=============== Advanced Mortar Turret ===============-->
-  
+  <!--=============== Advanced Mortar Turret ===============-->
   <ThingDef ParentName="BaseArtilleryBuilding">
     <defName>Ad_Turret_Mortar</defName>
     <label>advanced mortar</label>
@@ -20,24 +19,21 @@
         <li>Artillery_BaseDestroyer</li>
       </buildingTags>
     </building>
-	<costList>
-		<Steel>120</Steel>
-		<ComponentIndustrial>5</ComponentIndustrial>
-	</costList>
-	<uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
-	<uiIconScale>0.9</uiIconScale>
-	
+    <costList>
+      <Steel>120</Steel>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
     <researchPrerequisites>
       <li>Ad_Mortars</li>
     </researchPrerequisites>
   </ThingDef>
-  
-
   <ThingDef ParentName="BaseArtilleryWeapon">
     <defName>Ad_Artillery_Mortar</defName>
     <label>advanced mortar</label>
     <description>Advanced mortar launcher. Lobs bombs over walls. Accurate and long-ranged.</description>
-	<graphicData>
+    <graphicData>
       <texPath>Things/Building/Turret/A_TurretMortar_Top_11</texPath>
     </graphicData>
     <weaponTags>
@@ -61,7 +57,7 @@
         </targetParams>
       </li>
     </verbs>
-	<comps>
+    <comps>
       <li Class="CompProperties_ChangeableProjectile" />
     </comps>
     <building>

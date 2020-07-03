@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Mortar turret -->
+
+  <Ad_Turret_Mortar.label>advanced mortar</Ad_Turret_Mortar.label>
+  <Ad_Turret_Mortar.description>A manned mortar that launches all kinds of shells with good accuracy.</Ad_Turret_Mortar.description>
+
+  <Ad_Artillery_Mortar.label>advanced mortar</Ad_Artillery_Mortar.label>
+  <Ad_Artillery_Mortar.description>Mortar launcher. Lobs bombs over walls. Accurate and long-ranged.</Ad_Artillery_Mortar.description>
+
+
+</LanguageData>

@@ -20,7 +20,7 @@
       </buildingTags>
     </building>
     <costList>
-      <Steel>120</Steel>
+      <Steel>180</Steel>
       <ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>

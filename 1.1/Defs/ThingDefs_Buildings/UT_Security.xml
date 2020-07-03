@@ -19,9 +19,10 @@
         <li>Artillery_BaseDestroyer</li>
       </buildingTags>
     </building>
+    <costStuffCount>85</costStuffCount>
     <costList>
-      <Steel>180</Steel>
-      <ComponentIndustrial>5</ComponentIndustrial>
+      <Steel>170</Steel>
+      <ComponentIndustrial>7</ComponentIndustrial>
     </costList>
     <uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
     <uiIconScale>0.9</uiIconScale>

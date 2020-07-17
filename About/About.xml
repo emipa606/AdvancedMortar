@@ -9,7 +9,9 @@
     <li>1.1</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
   <description>Update of $$$s mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
 
@@ -22,7 +24,9 @@ https://discord.gg/SuhwVpM
 
 Non-steam version:
 https://github.com/emipa606/AdvancedMortar
-	
+
+- Added CE-support
+
 --- Original Description ---
 Adds upgraded version of the mortar. Details are attatched as images.
 

@@ -1,41 +1,56 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Advanced Mortar (Continued)</name>
   <packageId>Mlie.AdvancedMortar</packageId>
-  <author>Mlie</author>
+  <author>$$$</author>
   <url>https://github.com/emipa606/AdvancedMortar</url>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>Update of $$$s mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of $$$s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+- Updated the price since the Vanilla turret is more expensive now
+- Works well with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2339394453]Advanced Mini-Turret+[/url] mod by velcroboy333
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/AdvancedMortar][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/AdvancedMortar
+Adds upgraded version of the mortar. Details are attatched as images. 
 
-- Added CE-support
-
---- Original Description ---
-Adds upgraded version of the mortar. Details are attatched as images.
-
-For players only. Enemies won't bring this to attack you.
+For players only. Enemies won&apos;t bring this to attack you.
 
 Burst fire is not free.
 It consumes a shell per each shot.
-It's working just like a following video.
+It&apos;s working just like a following video.
 
-https://youtu.be/io3NHBKQSQ4</description>
+https://youtu.be/io3NHBKQSQ4
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

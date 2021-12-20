@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Advanced Mortar (Continued)</name>
   <packageId>Mlie.AdvancedMortar</packageId>
@@ -14,14 +14,15 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of $$$s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
 
 - Updated the price since the Vanilla turret is more expensive now
 - Works well with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2339394453]Advanced Mini-Turret+[/url] mod by velcroboy333
+- Seems enemies will now use the mortars as well, if they can afford them
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -30,19 +31,19 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Adds upgraded version of the mortar. Details are attatched as images. 
 
-For players only. Enemies won&apos;t bring this to attack you.
+For players only. Enemies won't bring this to attack you.
 
 Burst fire is not free.
 It consumes a shell per each shot.
-It&apos;s working just like a following video.
+It's working just like a following video.
 
 https://youtu.be/io3NHBKQSQ4
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -53,4 +54,3 @@ https://youtu.be/io3NHBKQSQ4
 [/list]
 </description>
 </ModMetaData>
-

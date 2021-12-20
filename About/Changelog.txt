@@ -1,5 +1,8 @@
 # Changelog for AdvancedMortar
 
+1.0.11.0 - Missed the CE-logo in the preview-image
+
+
 1.0.10.0 - CE-patch is now included in the main CE-mod instead
 
 

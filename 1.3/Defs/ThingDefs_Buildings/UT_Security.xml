@@ -24,6 +24,15 @@
       <Steel>170</Steel>
       <ComponentIndustrial>7</ComponentIndustrial>
     </costList>
+    <costListForDifficulty>
+      <difficultyVar>classicMortars</difficultyVar>
+      <invert>true</invert>
+      <costList>
+        <ComponentIndustrial>7</ComponentIndustrial>
+        <ReinforcedBarrel>1</ReinforcedBarrel>
+      </costList>
+      <costStuffCount>85</costStuffCount>
+    </costListForDifficulty>
     <uiIconPath>Things/Building/Turret/A_TurretMortar_MenuIcon</uiIconPath>
     <uiIconScale>0.9</uiIconScale>
     <researchPrerequisites Inherit="false">

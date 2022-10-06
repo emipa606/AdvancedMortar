@@ -8,6 +8,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1622501189
 - Updated the price since the Vanilla turret is more expensive now
 - Works well with the https://steamcommunity.com/sharedfiles/filedetails/?id=2339394453]Advanced Mini-Turret+ mod by velcroboy333
 - Seems enemies will now use the mortars as well, if they can afford them
+- Uses the reinforced barrel-mechanic if enabled, same as vanilla mortars.
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -35,6 +36,7 @@ https://youtu.be/io3NHBKQSQ4
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced mortar -->
+  <Ad_Artillery_Mortar.label>advanced mortar</Ad_Artillery_Mortar.label>
+  <!-- EN: Advanced mortar launcher. Lobs bombs over walls. Accurate and long-ranged. -->
+  <Ad_Artillery_Mortar.description>Advanced mortar launcher. Lobs bombs over walls. Accurate and long-ranged.</Ad_Artillery_Mortar.description>
+  <!-- EN: advanced mortar -->
+  <Ad_Artillery_Mortar.verbs.Verb_Shoot.label>advanced mortar</Ad_Artillery_Mortar.verbs.Verb_Shoot.label>
+  <!-- EN: advanced mortar -->
+  <Ad_Turret_Mortar.label>advanced mortar</Ad_Turret_Mortar.label>
+  <!-- EN: A advanced manned mortar that launches all kinds of shells with good accuracy. -->
+  <Ad_Turret_Mortar.description>A advanced manned mortar that launches all kinds of shells with good accuracy.</Ad_Turret_Mortar.description>
+  <!-- EN: Barrel durability -->
+  <Ad_Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Ad_Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Ad_Turret_Mortar.comps.CompRefuelable.fuelLabel>Shots until barrel change</Ad_Turret_Mortar.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <Ad_Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>Needs new reinforced barrel</Ad_Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>
